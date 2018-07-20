@@ -1,5 +1,8 @@
-# me_learn_front_end
-Here I learn HTML and CSS!
+# This repo to help me learn HTML and CSS and my purpose is become the front-end dev
 
-# Note
+## How to run
+
+
+
+## Note
     `hello-world` is template (like base)
